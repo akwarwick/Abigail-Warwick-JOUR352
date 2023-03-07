@@ -1,0 +1,26 @@
+/*
+MY COLOR PALETTE
+Color 1 - #fff5eb <-- background
+Color 2 - #693a5b
+Color 3 - #d7c1c5
+Color 4 - #e3dfde
+Color 5 - #052838 <-- text
+*/
+
+body {
+    background-color: #fff5eb;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family:'Quicksand', sans-serif;
+    color: #052838;
+    border: 2px;
+    border-color: #693a5b;
+    padding: 3px;
+    margin: 3px;
+}
