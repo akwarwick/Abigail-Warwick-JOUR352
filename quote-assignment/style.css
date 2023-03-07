@@ -10,6 +10,7 @@ Color 5 - #052838 <-- text
 body {
     background-color: #fff5eb;
     text-align:center;
+    padding: 30px;
 }
 
 div {
@@ -19,8 +20,16 @@ div {
     font-size:44px;
     font-family:'Quicksand', sans-serif;
     color: #052838;
-    border: 2px;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 10px;
     border-color: #693a5b;
-    padding: 3px;
-    margin: 3px;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+#highlight {
+    color: #d7c1c5;
+    font-weight: bold;
 }
