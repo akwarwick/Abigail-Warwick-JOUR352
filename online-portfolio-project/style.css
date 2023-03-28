@@ -15,7 +15,7 @@ h1{
     font: "bely-display", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 30px;
+    font-size: 50px;
     color: #FFFCF7;
     text-align:center;
     padding-top: 40px;
@@ -25,6 +25,7 @@ h2{
     font-family: "transat", sans-serif;
     font-weight: 300;
     font-style: normal;
+    font-size: 30px;
     color: #FFFCF7;
     text-align: center;
     padding-top: 10px;
