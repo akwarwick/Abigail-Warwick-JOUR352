@@ -14,14 +14,14 @@ h1{
     font: "bely-display", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #040F0F;
+    color: #FFFCF7;
 }
 
 h2{ 
     font-family: "transat", sans-serif;
     font-weight: 300;
     font-style: normal;
-    color: #040F0F;
+    color: #FFFCF7;
 }
 
 body {
@@ -35,7 +35,7 @@ body {
 #headshot {
     width: 200px;
     border-radius: 500px;
-    margin: 10px 0px 0px 10px;
+    margin: 10px 0px 0px 20px;
     border: 5px #E2B6C2;
     float: right;
 }
