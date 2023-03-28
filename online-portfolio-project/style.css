@@ -22,7 +22,7 @@ h2{
     font-weight: 300;
     font-style: normal;
     color: #FFFCF7;
-    text-align: center;
+    text-align: center, top;
     padding-top: 10px;
     padding-bottom: 50px;
 }
