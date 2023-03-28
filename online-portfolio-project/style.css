@@ -31,3 +31,7 @@ body {
     color: #040F0F;
     background-color:#FFFCF7;
 }
+
+#headshot {
+    border-radius: 40%;
+}
