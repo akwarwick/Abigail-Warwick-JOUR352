@@ -1,6 +1,6 @@
 .container-fluid {
     background-color:#E2B6C2;
-    height: 150px;
+    width: "max-width";
 }
 
 head {
