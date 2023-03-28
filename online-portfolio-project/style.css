@@ -4,7 +4,7 @@
 }
 
 head {
-    font: "bely-display", sans-serif;
+    font: "bely", sans-serif;
     font-weight: 400;
     font-style: bold;
     background-color:#FFFCF7;
@@ -12,7 +12,7 @@ head {
 }
 
 h1{
-    font: "bely-display", sans-serif;
+    font: "bely", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 50px;
@@ -42,7 +42,6 @@ body {
 #headshot {
     width: 300px;
     border-radius: 500px;
-    margin: 10px 0px 0px 50px;
     border: 5px #E2B6C2;
     float: right;
 }
