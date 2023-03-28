@@ -3,12 +3,20 @@
 }
 
 head {
-    font: font-family: "bely-display", sans-serif;
+    font: "bely-display", sans-serif;
     font-weight: 400;
     font-style: normal;
     color: #040F0F;
     background-color:#FFFCF7;
 }
+
+h1{
+    font: "bely-display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #040F0F;
+}
+
 body {
     font-family: "transat", sans-serif;
     font-weight: 300;
