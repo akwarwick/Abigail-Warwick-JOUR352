@@ -17,6 +17,13 @@ h1{
     color: #040F0F;
 }
 
+h2{ 
+      font-family: "transat", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #040F0F;
+}
+
 body {
     font-family: "transat", sans-serif;
     font-weight: 300;
