@@ -40,9 +40,9 @@ body {
 }
 
 #headshot {
-    width: 200px;
+    width: 400px;
     border-radius: 500px;
-    margin: 10px 0px 0px 20px;
+    margin: 10px 0px 0px 50px;
     border: 5px #E2B6C2;
     float: right;
 }
