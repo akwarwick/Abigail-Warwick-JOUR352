@@ -1,0 +1,14 @@
+.container-fluid {
+    background-color:beige;
+}
+
+head {
+    font: font-family: "bely-display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    font-family: "transat", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
