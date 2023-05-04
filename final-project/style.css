@@ -1,0 +1,57 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size:35px;
+    text-align: center;
+    padding-top:40px;
+    margin-left:40px;
+    margin-right:40px;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size:14px;
+    text-align:center;
+    font-style:italic;
+}
+
+#publication{
+    font-family: 'Comme', sans-serif;
+    font-size:20px;
+    text-align: center;
+    font-style:normal;
+}
+
+#byline{
+    font-family: 'Comme', sans-serif;
+    font-size:15px;
+    text-align:center;
+}
+
+#head-photo{
+    width: 850px;
+    padding:50px;
+    padding-bottom:10px;
+    margin-left:300px;
+    
+}
+
+#caption{
+    font-family: 'Comme', sans-serif;
+    font-size:12px;
+    color:#5D5959;
+    text-align: center;
+}
+
+p{
+    font-family:'Comme', sans-serif;
+    font-size:16px;
+}
+.letter-start{
+    font-family: 'Playfair Display', serif;
+    font-size:30px;
+}
+
+h3{
+    font-family: 'Playfair Display', serif;
+    font-size:30px;
+}
