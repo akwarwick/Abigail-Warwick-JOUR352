@@ -1,8 +1,8 @@
+@media {
+
 #header{
     text-align:center;
-    
 }
-
 
 h1 {
     font-family: 'Playfair Display', serif;
@@ -36,16 +36,14 @@ h2 {
     padding:30px 0px 5px 0px;
 }
 
-#body-photo{
-    width:70%;
-    padding: 0px 0px 5px 0px;
+#cleaning-unit-photo{ 
+    width: 70%;
+    margin-left:11%
 }
 
-.caption{
-    font-family: 'Comme', sans-serif;
-    font-size:12px;
-    color:#5D5959;
-    text-align: center;
+#dog-photo{
+    width: 70%;
+    margin-left:14%;
 }
 
 .lead-caption{
@@ -67,11 +65,11 @@ h2 {
 
 p{
     font-family:'Comme', sans-serif;
-    font-size:16px;
+    font-size:18px;
 }
 .letter-start{
     font-family: 'Playfair Display', serif;
-    font-size:30px;
+    font-size:34px;
 }
 
 h3{
@@ -82,6 +80,12 @@ h3{
 
 #body{
     width: 70%;
+}
+
+.quote-line{
+    height: 2px;
+    background-color: #edad08;
+    align-content:flex-start;
 }
 
 .pull-quote{
@@ -100,3 +104,38 @@ h3{
     text-align:center;
     padding:0px 0px 50px 0px;
 }
+
+#footer {
+    background-color: #3E92CC;
+    display: flex;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    bottom: 0;
+}
+
+#back-to-top{
+    background-color: #edad08;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    border: none;
+    width: 200px;
+    border-radius: 20px;
+    margin: auto;
+    
+}
+}
+
+@media (min-width: 576px){
+    h1{ font-size: 24px;}
+    h2{ font-size 12px;}
+    #publication{font-size:16px;}
+    #byline{font-size:12px;}
+    .lead-caption{font-size:10px;}
+    .caption{font-size:10px;}
+    #cleaning-unit-photo{width:80%;}
+    #dog-photo{80%:}
+}
+
+    
